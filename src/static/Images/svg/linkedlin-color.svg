@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_477" data-name="Group 477" transform="translate(-546 -2816)">
+    <rect id="Rectangle_119" data-name="Rectangle 119" width="40" height="40" rx="3" transform="translate(546 2816)" fill="#0077b5"/>
+    <g id="linkedin-letters" transform="translate(557 2817.292)">
+      <g id="Group_474" data-name="Group 474" transform="translate(0 9.708)">
+        <rect id="Rectangle_122" data-name="Rectangle 122" width="3.983" height="11.962" transform="translate(0.229 5.758)" fill="#fff"/>
+        <path id="Path_507" data-name="Path 507" d="M162.473,140.7a4.287,4.287,0,0,0-3.319-1.37,4.783,4.783,0,0,0-1.382.187,3.136,3.136,0,0,0-1.05.525,4.5,4.5,0,0,0-1.153,1.266v-1.7H151.6l.012.579q.012.579.012,3.573t-.024,7.809h3.971V144.9a2.915,2.915,0,0,1,.133-.978,2.564,2.564,0,0,1,.767-1.032,1.954,1.954,0,0,1,1.274-.417,1.717,1.717,0,0,1,1.527.718,3.492,3.492,0,0,1,.489,1.986v6.4h3.971v-6.855A5.748,5.748,0,0,0,162.473,140.7Z" transform="translate(-145.188 -133.851)" fill="#fff"/>
+        <path id="Path_508" data-name="Path 508" d="M2.245,9.708a2.272,2.272,0,0,0-1.623.585A1.944,1.944,0,0,0,0,11.772a1.978,1.978,0,0,0,.6,1.472,2.178,2.178,0,0,0,1.593.591h.024a2.274,2.274,0,0,0,1.636-.591,1.911,1.911,0,0,0,.61-1.472,2.013,2.013,0,0,0-.616-1.479A2.207,2.207,0,0,0,2.245,9.708Z" transform="translate(0 -9.708)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

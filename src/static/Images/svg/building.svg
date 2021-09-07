@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="building" transform="translate(-1.125 -1.125)">
+    <path id="Path_409" data-name="Path 409" d="M15.259,16.058V1.125H2.992V16.058H1.125v1.067h16V16.058Zm-1.067,0H9.658V13.925H8.592v2.133H4.059V2.192H14.192Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Path_410" data-name="Path 410" d="M11.25,21.375h1.125V22.5H11.25Z" transform="translate(-5.344 -10.687)" fill="#fff"/>
+    <path id="Path_411" data-name="Path 411" d="M16.875,21.375H18V22.5H16.875Z" transform="translate(-8.313 -10.687)" fill="#fff"/>
+    <path id="Path_412" data-name="Path 412" d="M22.5,21.375h1.125V22.5H22.5Z" transform="translate(-11.281 -10.687)" fill="#fff"/>
+    <path id="Path_413" data-name="Path 413" d="M11.25,14.625h1.125V15.75H11.25Z" transform="translate(-5.344 -7.125)" fill="#fff"/>
+    <path id="Path_414" data-name="Path 414" d="M16.875,14.625H18V15.75H16.875Z" transform="translate(-8.313 -7.125)" fill="#fff"/>
+    <path id="Path_415" data-name="Path 415" d="M22.5,14.625h1.125V15.75H22.5Z" transform="translate(-11.281 -7.125)" fill="#fff"/>
+    <path id="Path_416" data-name="Path 416" d="M11.25,7.875h1.125V9H11.25Z" transform="translate(-5.344 -3.563)" fill="#fff"/>
+    <path id="Path_417" data-name="Path 417" d="M16.875,7.875H18V9H16.875Z" transform="translate(-8.313 -3.563)" fill="#fff"/>
+    <path id="Path_418" data-name="Path 418" d="M22.5,7.875h1.125V9H22.5Z" transform="translate(-11.281 -3.563)" fill="#fff"/>
+  </g>
+</svg>

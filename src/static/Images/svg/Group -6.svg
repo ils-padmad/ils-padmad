@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_10953" data-name="Group 10953" transform="translate(-1449 -5984)">
+    <g id="Rectangle_406" data-name="Rectangle 406" transform="translate(1449 5984)" fill="#2a2f4d" stroke="#a9acbe" stroke-width="1">
+      <rect width="48" height="48" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="47" rx="4.5" fill="none"/>
+    </g>
+    <g id="youtube_icon" data-name="youtube icon" transform="translate(1460 5919)">
+      <g id="Group_10952" data-name="Group 10952" transform="translate(0 80)">
+        <path id="Path_1482" data-name="Path 1482" d="M25.069,81.735c-.71-1.263-1.481-1.5-3.05-1.584-1.568-.106-5.51-.151-8.925-.151s-7.365.044-8.931.149-2.338.321-3.055,1.586S0,85.169,0,89v.013c0,3.809.376,6,1.108,7.247s1.487,1.492,3.053,1.6S9.673,98,13.094,98s7.357-.054,8.926-.144c1.569-.106,2.34-.335,3.05-1.6.738-1.249,1.111-3.438,1.111-7.247V89C26.182,85.169,25.809,83,25.069,81.735ZM9.818,93.909V84.091L18,89Z" transform="translate(0 -80)" fill="#7b7f95"/>
+      </g>
+    </g>
+  </g>
+</svg>

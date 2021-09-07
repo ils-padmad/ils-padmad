@@ -1,0 +1,244 @@
+@import "~bootstrap/scss/bootstrap";
+body{
+	background:#F3F4F9 !important;
+}
+.card{
+    &.details{
+        margin:0 auto;
+        display:table;
+        border: none !important;
+        border-radius: 0;
+    }    
+}
+nav {
+	&.navbar {
+		&.navbar-expand-lg {
+			&.navbar-light {
+				background: #2A2F4D;
+			}
+		}
+	}
+}
+ul {
+	&.userdashboardlog {
+		list-style: none;
+		color: #fff;
+		display: flex;
+	}
+}
+li {
+	&.dashboard-list {
+		margin: 5px;
+	}
+}
+.authentication {
+	background: #F3F4F9;
+}
+.container-fluid {
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+a {
+	&.navbar-brand {
+		&.logo {
+			color: #fff;
+			margin: 0 auto;
+			display: table;
+		}
+	}
+}
+.card {
+	&.credentials {
+		box-shadow: 0px 3px 6px #00000029;
+		border-radius: 10px;
+		opacity: 1;
+	}
+}
+.accountsignup {
+	color: #FF0175;
+	opacity: 1;
+}
+.password {
+	float: right;
+	margin-top: -6%;
+	color: #FF0175;
+}
+label {
+	&.form-check-label {
+		&.labeltext {
+			float: left;
+		}
+	}
+}
+button {
+	&.loginbutton {
+		background: transparent linear-gradient(125deg, var(--unnamed-color-ff0175) 0%, #FFD400 100%) 0% 0% no-repeat padding-box;
+		background: transparent linear-gradient(125deg, #FF0175 0%, #FFD400 100%) 0% 0% no-repeat padding-box;
+		box-shadow: 0px 3px 6px #00000029;
+		border-radius: 28px;
+		opacity: 1;
+		left: 820px;
+		width: 269px;
+		height: 56px;
+		border: 1px solid #fff;
+		color: #fff;
+	}
+}
+button {
+	&.btn {
+		&.cancelchanges {
+			&.rounded-pill {
+				background: #FFFFFF 0% 0% no-repeat padding-box;
+				border: 1px solid #FF0175;
+				border-radius: 25px;
+				color: #FF0175;
+				width: 122px;
+				height: 45px;
+				font-size: 12px;
+			}
+		}
+	}
+}
+button {
+	&.btn {
+		&.btn-lg {
+			&.changesavetab {
+				&.rounded-pill {
+					margin-top: -9%;
+					background: #FF0175;
+					border: 1px solid #FF0175;
+					color: #fff;
+					width: 203px;
+                    height: 45px;
+					font-size: 12px;
+				}
+			}
+		}
+	}
+}
+.rounded-circle {
+    width: 85px;
+    height: 85px;
+    background: #F3F4F9 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.card-body {
+	&.studentdata {
+		h5 {
+			letter-spacing: var(--unnamed-character-spacing-0);
+			text-align: center;
+			font: normal normal bold 45px Open Sans;
+			letter-spacing: 0px;
+			color: #0C133B;
+			opacity: 1;
+		}
+	}
+}
+.studentdata {
+	p {
+		text-align: center;
+		font: normal normal normal 16px/22px Open Sans;
+		letter-spacing: 0px;
+		color: #0C133B;
+		opacity: 1;
+	}
+}
+span {
+	&.input-group-text {
+		background: var(--unnamed-color-f14080) 0% 0% no-repeat padding-box;
+		background: #F14080 0% 0% no-repeat padding-box;
+		border-radius: 23px;
+		opacity: 1;
+		width: 89px;
+		height: 39px;
+		color: #fff;
+		font-size: 12px;
+	}
+}
+h4 {
+	&.dashboardheading {
+		background: grey;
+		height: 60px;
+		background: var(--unnamed-color-e7e9f3) 0% 0% no-repeat padding-box;
+		background: #E7E9F3 0% 0% no-repeat padding-box;
+		border-radius: 20px 20px 0px 0px;
+		opacity: 1;
+	}
+}
+thead {
+	&.detailsheading {
+		width: 1575px;
+		height: 50px;
+		background: #EFF1F8 0% 0% no-repeat padding-box;
+		opacity: 1;
+	}
+}
+.detectivedetails{
+	border-radius: 25px !important;
+    width: 301px;
+    height: auto;
+    border: 1px solid #E7E9F3;
+    border-radius: 20px 20px 0px 0px;
+    opacity: 1;
+ }
+p {
+	&.card-text {
+		&.duration {
+			color: #7B7F95;
+			font-size: 12px;
+		}
+	}
+}
+.school-acedemic-details {
+	margin: 4% !important;
+}
+ul {
+	&.acedemic-category {
+		list-style: none;
+		display: flex;
+	}
+}
+li {
+	&.programslist {
+		margin: 30px; 
+		margin-bottom: 0;
+		color:#7B7F95;
+	}
+}
+table {
+	&.table {
+		&.circulumdata {
+			font-size: 13px;
+
+			line-height: 1.5;
+		}
+	}
+}
+.schoolhistory{
+	background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 6px #00000029;
+    opacity: 1;
+	border-radius: 25px;
+}
+.list-group-icons{
+	background-color: #fff;
+	width: 6% !important;
+}
+p.logosubtitle{
+	text-align: left;
+    font-size: 15px;
+    color: #fefefe;
+    opacity: 1;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+	padding-left: 25% !important;
+}
+ul {
+	&.userdashboardlog {
+		list-style: none;
+		color: #fff;
+		display: flex;
+		margin-right: 5%;
+	}
+}

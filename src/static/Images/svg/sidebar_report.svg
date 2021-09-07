@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_11372" data-name="Group 11372" transform="translate(-31 -159)">
+    <g id="pie-chart" transform="translate(31 159)">
+      <g id="Group_313" data-name="Group 313" transform="translate(10)">
+        <g id="Group_312" data-name="Group 312">
+          <path id="Path_473" data-name="Path 473" d="M256.417,0A.417.417,0,0,0,256,.417V9.583a.417.417,0,0,0,.417.417h9.167A.417.417,0,0,0,266,9.583,9.594,9.594,0,0,0,256.417,0Z" transform="translate(-256)" fill="#2a2f4d"/>
+        </g>
+      </g>
+      <g id="Group_315" data-name="Group 315" transform="translate(0 0.833)">
+        <g id="Group_314" data-name="Group 314">
+          <path id="Path_474" data-name="Path 474" d="M14.913,38.161,9.167,30.774V21.75a.417.417,0,0,0-.417-.417c-4.825,0-8.75,4.3-8.75,9.583A9.594,9.594,0,0,0,9.583,40.5a7.118,7.118,0,0,0,5.264-1.762A.417.417,0,0,0,14.913,38.161Z" transform="translate(0 -21.333)" fill="#2a2f4d"/>
+        </g>
+      </g>
+      <g id="Group_317" data-name="Group 317" transform="translate(10.834 10.833)">
+        <g id="Group_316" data-name="Group 316">
+          <path id="Path_475" data-name="Path 475" d="M286.087,277.333h-8.333a.416.416,0,0,0-.323.678l5.417,6.706a.417.417,0,0,0,.3.154h.029a.419.419,0,0,0,.284-.112,9.623,9.623,0,0,0,3.048-7.011A.417.417,0,0,0,286.087,277.333Z" transform="translate(-277.338 -277.333)" fill="#2a2f4d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
